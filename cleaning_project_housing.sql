@@ -1,4 +1,4 @@
---Data Cleaning Project Nashville Housing Data for Data Cleaning (1)
+--Data Cleaning Project Nashville Housing Data 
 --1.Populate columns with NULL values
 
 SELECT * FROM NashvilleHousing;
